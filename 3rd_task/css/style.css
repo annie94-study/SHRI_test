@@ -1,0 +1,19 @@
+
+#title {
+	border-bottom: 2px dashed grey;
+	font-size: 20px;
+}
+
+ul {
+	text-align: left;
+	margin-left: -40px;
+	list-style: none;
+}
+
+.site_city {
+	color: violet;
+}
+
+.user_city {
+	color: green;
+}
